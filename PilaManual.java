@@ -1,14 +1,3 @@
-// Clase Nodo
-class Nodo {
-    Pizza pizza;
-    Nodo siguiente;
-
-    public Nodo(Pizza pizza) {
-        this.pizza = pizza;
-        this.siguiente = null;
-    }
-}
-
 // Clase Pila
 public class PilaManual {
     private Nodo tope;

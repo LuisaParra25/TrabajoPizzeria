@@ -3,12 +3,11 @@
 ##  Objetivo
 El objetivo de este proyecto es implementar un sistema de gestión de pedidos para una pizzería utilizando la estructura de datos de **Pila (Stack)**. El sistema permite registrar pedidos y ofrece las funcionalidades de "Deshacer" (Undo) y "Rehacer" (Redo) mediante el uso de dos pilas manuales basadas en listas ligadas.
 
----
 
 ## Fundamentación Teórica
 
 ### ¿Qué es una Pila (Stack)?
-Una **Pila** es una estructura de datos lineal que sigue el principio **LIFO** (*Last In, First Out*), lo que significa que el último elemento en entrar es el primero en salir. 
+Una **Pila** es una estructura de datos lineal que sigue el principio **LIFO**, lo que significa que el último elemento en entrar es el primero en salir. 
 
 ### Aplicación en Undo/Redo
 En este simulador:
@@ -22,7 +21,6 @@ Para cumplir con los requisitos, no se utilizaron librerías externas como `java
 * **push():** Crea un nuevo nodo, apunta su referencia `siguiente` al actual `tope`, y luego actualiza el `tope` al nuevo nodo.
 * **pop():** Captura el valor del `tope`, mueve el puntero del `tope` al nodo `siguiente` y retorna el valor capturado.
 
----
 
 ##  Tecnologías Utilizadas
 * **Lenguaje:** Java 17+
@@ -30,7 +28,6 @@ Para cumplir con los requisitos, no se utilizaron librerías externas como `java
 * **JDK:** Eclipse Temurin
 * **Control de Versiones:** Git & GitHub
 
----
 
 ## Instrucciones de Ejecución
 1. Clona el repositorio:
@@ -38,7 +35,15 @@ Para cumplir con los requisitos, no se utilizaron librerías externas como `java
    git clone [https://github.com/LuisaParra25/TrabajoPizzeria.git]
 
 ## Captura de pantalla
-!(Prueba de la consola) (foto.png)
+![Prueba de la consola] (Pantallazo 1.png)
+
+### Proceso de pedido
+<details>
+  <summary> Haz clic aquí para ver todas las capturas</summary>
+  
+  ![Captura 1](img/Pantallazo 1.png)
+  ![Captura 2](img/Pantallazo 2.png)
+</details>
 
 ## Autora
 - Luisa Fernanda Parra Arboleda
