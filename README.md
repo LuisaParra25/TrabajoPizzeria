@@ -1,4 +1,4 @@
-# Pizza-Track: Simulador de Gestión de Pedidos (Undo/Redo)
+# Pizza-MariaVic: Simulador de Gestión de Pedidos (Undo/Redo)
 
 ##  Objetivo
 El objetivo de este proyecto es implementar un sistema de gestión de pedidos para una pizzería utilizando la estructura de datos de **Pila (Stack)**. El sistema permite registrar pedidos y ofrece las funcionalidades de "Deshacer" (Undo) y "Rehacer" (Redo) mediante el uso de dos pilas manuales basadas en listas ligadas.
@@ -35,14 +35,11 @@ Para cumplir con los requisitos, no se utilizaron librerías externas como `java
    git clone [https://github.com/LuisaParra25/TrabajoPizzeria.git]
 
 ## Captura de pantalla
-![Prueba de la consola] (Pantallazo 1.png)
-
-### Proceso de pedido
 <details>
   <summary> Haz clic aquí para ver todas las capturas</summary>
   
-  ![Captura 1](img/Pantallazo 1.png)
-  ![Captura 2](img/Pantallazo 2.png)
+  ![Captura 1](Pantallazo 1.png)
+  ![Captura 2](Pantallazo 2.png)
 </details>
 
 ## Autora
