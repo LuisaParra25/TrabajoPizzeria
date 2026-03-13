@@ -38,8 +38,8 @@ Para cumplir con los requisitos, no se utilizaron librerías externas como `java
 <details>
   <summary> Haz clic aquí para ver todas las capturas</summary>
   
-  ![Captura 1](Pantallazo 1.png)
-  ![Captura 2](Pantallazo 2.png)
+  ![Captura 1](captura1.png)
+  ![Captura 2](captura2.png)
 </details>
 
 ## Autora
