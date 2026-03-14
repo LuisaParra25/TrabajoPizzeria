@@ -15,7 +15,6 @@ En este simulador:
 2.  **Pila Secundaria (Redo):** Almacena temporalmente los pedidos eliminados. Si el usuario decide "Rehacer", el pedido vuelve a la Pila Principal.
 
 
-
 ### Lógica de Punteros en la Lista Ligada
 Para cumplir con los requisitos, no se utilizaron librerías externas como `java.util.Stack`. La lógica se basa en **Nodos**:
 * **push():** Crea un nuevo nodo, apunta su referencia `siguiente` al actual `tope`, y luego actualiza el `tope` al nuevo nodo.
@@ -46,4 +45,6 @@ Para cumplir con los requisitos, no se utilizaron librerías externas como `java
 - Luisa Fernanda Parra Arboleda
 
 ## Link del video 
-Link []
+ ```bash
+Link [https://drive.google.com/file/d/1BmN1Y9Czo309Ws_0SIkoWT2fVoozJ8ql/view?usp=sharing]
+
